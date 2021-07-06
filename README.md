@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### <img href="https://github.com/o-lq/o-lq/raw/main/086f4698c707d9535a9737ed92bfb6dd_cover.gif">技能冻结中;还未起床·请叫醒我 Chlone.git@outlook.com</img>
+<img align="right" alt="coding User Image" src="https://github.com/o-lq/o-lq/raw/main/086f4698c707d9535a9737ed92bfb6dd_cover.gif" height="180" />
 <!--
 **o-lq/o-lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
