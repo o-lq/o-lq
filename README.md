@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 技能冻结中;还未起床·请叫醒我 Chlone.git@outlook.com
-<img align="right" alt="coding User Image" src="https://github.com/o-lq/o-lq/raw/main/086f4698c707d9535a9737ed92bfb6dd_cover.gif" height="180" />
+
 <!--
 **o-lq/o-lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=o-lq&show_icons=true&count_private=true&hide_title=true)
+<img align="right" alt="coding User Image" src="https://github.com/o-lq/o-lq/raw/main/086f4698c707d9535a9737ed92bfb6dd_cover.gif" height="180" />
