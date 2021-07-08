@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=o-lq&show_icons=true&count_private=true&hide_title=true)
-<img src="https://drive.spencerwoo.com/api?path=/%F0%9F%8C%9E%20Private%20folder/u-need-a-password/watch%20this.mp4&raw=true"></img>
